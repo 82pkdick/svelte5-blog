@@ -1,4 +1,3 @@
 [build]
-  base = "svelte5-blog/" 
   command = "npm run build"
   publish = "build"
