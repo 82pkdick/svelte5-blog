@@ -48,10 +48,10 @@
     }))
   );
 
-  console.log("A01: ", $inspect(navUrls));
-  console.log("A02: ", resolve("/"));
-  console.log("A02: ", resolve("/blog"));
-  console.log("A02: ", resolve("/about"));
+  // console.log("A01: ", $inspect(navUrls));
+  // console.log("A02: ", resolve("/"));
+  // console.log("A02: ", resolve("/blog"));
+  // console.log("A02: ", resolve("/about"));
   // for (let i = 0; i < navItems.length; i++) {
   //   console.log("A01: ", typeof navItems[i].href);
   // }
